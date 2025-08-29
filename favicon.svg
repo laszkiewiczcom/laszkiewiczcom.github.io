@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91.199997"
+   height="134.39998"
+   viewBox="0 0 24.129999 35.559994"
+   version="1.1"
+   id="svg1"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      #text1 { fill: white }
+    }
+  </style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+  />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-49.201692,-83.097044)">
+    <path
+       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       d="m 58.752091,83.097044 h -9.550399 v 35.559996 h 24.129999 v -8.89 h -14.5796 z"
+       id="text1"
+       aria-label="L" />
+  </g>
+</svg>
